@@ -1,3 +1,9 @@
 1. Decide which business to order from
+<<<<<<< HEAD
 2. Decide between calzone and pizza
 3. Decide which toppings to add
+=======
+2. Decide which type of pizza to order
+3. Decide which toppings to add to the pizza
+4. Decide crust type.
+>>>>>>> FeatureBranch
